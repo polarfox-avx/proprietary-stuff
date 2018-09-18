@@ -1,2 +1,2 @@
 # minimalisticPrebattleTimer
-![ScreenShot](./minimalisticPrebattleTimer/screenshot.png)
+![ScreenShot](./screenshot.png)
